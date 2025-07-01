@@ -158,8 +158,3 @@ Attraverso l’**integrazione di tecnologie esistenti**, unita all’uso intelli
 > Prato può diventare un esempio virtuoso di **Smart City concreta**, dove le soluzioni smart non sono slogan, ma strumenti reali ed efficaci.
 
 ---
-
-**Allegati disponibili su richiesta:**
-- Mappa viaria con flussi pendolari
-- Schema logico Yunex Fusion
-- Simulazione ponte a senso alternato
